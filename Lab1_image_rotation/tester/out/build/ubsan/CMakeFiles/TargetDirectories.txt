@@ -1,0 +1,4 @@
+C:/Users/maria/YandexDisk-stetsenko.marie/ИТМО/3 семестр/ЯПы/Лабы/assignment-image-rotation/tester/out/build/ubsan/CMakeFiles/image-matcher.dir
+C:/Users/maria/YandexDisk-stetsenko.marie/ИТМО/3 семестр/ЯПы/Лабы/assignment-image-rotation/tester/out/build/ubsan/CMakeFiles/check.dir
+C:/Users/maria/YandexDisk-stetsenko.marie/ИТМО/3 семестр/ЯПы/Лабы/assignment-image-rotation/tester/out/build/ubsan/CMakeFiles/edit_cache.dir
+C:/Users/maria/YandexDisk-stetsenko.marie/ИТМО/3 семестр/ЯПы/Лабы/assignment-image-rotation/tester/out/build/ubsan/CMakeFiles/rebuild_cache.dir

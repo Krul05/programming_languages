@@ -1,0 +1,65 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-MSan-d0094a50bb2071803777.json",
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "MSan",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Project",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "check::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-check-MSan-5cb789b25779be99ffaa.json",
+					"name" : "check",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "image-matcher::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-image-matcher-MSan-5a5caa3b9c6e9fc53431.json",
+					"name" : "image-matcher",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/maria/YandexDisk-stetsenko.marie/\u0418\u0422\u041c\u041e/3 \u0441\u0435\u043c\u0435\u0441\u0442\u0440/\u042f\u041f\u044b/\u041b\u0430\u0431\u044b/assignment-image-rotation/tester/out/build/msan",
+		"source" : "C:/Users/maria/YandexDisk-stetsenko.marie/\u0418\u0422\u041c\u041e/3 \u0441\u0435\u043c\u0435\u0441\u0442\u0440/\u042f\u041f\u044b/\u041b\u0430\u0431\u044b/assignment-image-rotation/tester"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}
